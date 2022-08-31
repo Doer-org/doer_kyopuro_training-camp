@@ -1,6 +1,7 @@
 #問題一覧
 
 【簡単】
+
 #実装
 https://atcoder.jp/contests/abc180/tasks/abc180_a
 https://atcoder.jp/contests/abc178/tasks/abc178_a
@@ -9,6 +10,10 @@ https://atcoder.jp/contests/abc174/tasks/abc174_a
 https://atcoder.jp/contests/abc172/tasks/abc172_a
 https://atcoder.jp/contests/abc170/tasks/abc170_a
 
+#if
+https://atcoder.jp/contests/abc053/tasks/abc053_a
+#for
+https://atcoder.jp/contests/abc101/tasks/abc101_a
 #ソート
 https://atcoder.jp/contests/abc207/tasks/abc207_a
 https://atcoder.jp/contests/abc201/tasks/abc201_a
@@ -22,6 +27,10 @@ https://atcoder.jp/contests/abc179/tasks/abc179_a
 https://atcoder.jp/contests/abc214/tasks/abc214_b
 https://atcoder.jp/contests/abc222/tasks/abc222_b
 https://atcoder.jp/contests/abc204/tasks/abc204_b
+#max
+https://atcoder.jp/contests/abc052/tasks/abc052_a
+#アルファベット
+https://atcoder.jp/contests/abc151/tasks/abc151_a
 #浮動小数点
 https://atcoder.jp/contests/abc205/tasks/abc205_a
 
@@ -37,12 +46,25 @@ https://atcoder.jp/contests/abc213/tasks/abc213_b
 https://atcoder.jp/contests/abc201/tasks/abc201_b
 #数字->アルファベット
 https://atcoder.jp/contests/abc218/tasks/abc218_b
+#実装
+https://atcoder.jp/contests/abc101/tasks/abc101_b
+#全探索
+https://atcoder.jp/contests/abc086/tasks/abc086_b
+#二次元の文字列
+https://atcoder.jp/contests/abc062/tasks/abc062_b
+https://atcoder.jp/contests/abc049/tasks/abc049_b
+#minmax
+https://atcoder.jp/contests/abc047/tasks/abc047_b
+#何個あるか
+https://atcoder.jp/contests/abc089/tasks/abc089_b
 
 【難しい】
 #全探索
 https://atcoder.jp/contests/abc182/tasks/abc182_b
 https://atcoder.jp/contests/abc050/tasks/abc050_b
+https://atcoder.jp/contests/abc098/tasks/abc098_b
 #実装系
+https://atcoder.jp/contests/abc102/tasks/abc102_b
 https://atcoder.jp/contests/abc261/tasks/abc261_b
 https://atcoder.jp/contests/abc265/tasks/abc265_b
 #再帰
