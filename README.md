@@ -45,6 +45,11 @@ A, B = input().split()
 ```
 A, B = map(int, input().split())
 ```
+
+##### **文字列で受け取る→空白で区切る→全てを数値に変換する→リストにする**
+```
+A = list(map(int, input().split()))
+```
 </details>
 
 <details>
