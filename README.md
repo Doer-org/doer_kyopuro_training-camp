@@ -3,7 +3,7 @@
 ## 事前準備
 - Python環境構築  
 **Mac**HomeBrewからインストール https://skume.net/entry/2022/01/19/060000  
-**Windows**
+**Windows** https://prog-8.com/docs/python-env-win
 
 ## 全体の流れ
 |Time|Content|Info|

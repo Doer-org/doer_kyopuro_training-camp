@@ -1,5 +1,9 @@
 #問題一覧
 
+超簡単
+if文の説明にいいかも
+https://atcoder.jp/contests/abc053/tasks/abc053_a
+
 #愚直の方が楽系
 簡単
 https://atcoder.jp/contests/abc261/tasks/abc261_a
