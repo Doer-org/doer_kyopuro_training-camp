@@ -6,7 +6,7 @@
 **Windows**
 
 ## 全体の流れ
-|Time|Content|Info|
+|時間|内容|補足|
 |:-------:|:---------|:--------:|
 |14:00_14:25|競プロとは？(LT)||
 |14:30~15:25|Python文法基礎講座||
@@ -16,12 +16,10 @@
 
 ## Python文法基礎講座
 
-<!-- 1. 入力受け取り -->
 <details>
     <summary>入力受け取り</summary>
-- 入力受け取りでよく使う関数一覧 
 
-|Func|Cont|
+|関数|内容|
 |:-------:|:---------|
 |input()|入力を受け取る|
 |split()|入力を空白区切りにする|
@@ -32,14 +30,11 @@
 ```
 S = input()
 ```
-問題例[https://atcoder.jp/contests/abc266/tasks/abc266_a]
 
 ##### **文字列で受け取る→数値に変換する**
 ```
 S = int(input())
 ```
-例[https://atcoder.jp/contests/abc262/tasks/abc262_a]
-
 
 ##### **文字列で受け取る→空白で区切る**
 ```
@@ -50,19 +45,23 @@ A, B = input().split()
 ```
 A, B = map(int, input().split())
 ```
-例[https://atcoder.jp/contests/abc264/tasks/abc264_a]
 </details>
 
 <details>
-    <summary>使用頻度の高い関数一覧</summary>
-- 使用頻度の高い関数一覧  
+    <summary>Python関数一覧</summary>
 
-|Func|Cont|
-|:-------:|:---------|
-|max()|最大値|
-|min()|最小値|
-|sort()|ソートする|
-|print()|表示する|
+|関数|内容|例|
+|:-------:|:---------|----|
+|max()|最大値を取得|max(1, 4, 2) -> 4|
+|min()|最小値を取得|min(1, 4, 2) -> 1|
+|sorted()|ソートする|sorted([1, 4, 2) -> [1, 2, 4]|
+|print()|表示する|print('apple') -> 'apple'|
+|reversed()|逆順にする|reversed([1, 4, 2]) -> [2, 4, 1]|
+|join()|文字列を結合する|''.join(['a', 'b', 'c']) -> "abc"|
+|list()|リストを生成|[1, 2, 3, 4]|
+|set()|セットを生成|{1, 2, 3}|
+|dict()|辞書を生成|{"apple": 2} {key: value}|
+|range()|数字のリスト（みたいなもの）を生成|range(4) -> [0, 1, 2, 3]|
 
 
 </details>
