@@ -110,15 +110,24 @@ for alp in "abc":
 
 </details>
 
+<details>
+    <summary>Python実行コマンド</summary>
+#a.py という名前のファイルを実行（コマンドライン上で）
 
----
+```
+python3 a.py
+```
+#入力受付モードになるので、入力例を試す
+
+</details>
+
+
 ## 過去問演習
 - Problemsディレクトリの問題をひたすら解く！
     →　PythonとC++の解説コード添付
 - AtCoderProblems[https://kenkoooo.com/atcoder/#/table/]
     →　解いた問題を管理できるサイト
 
----
 ## ABC(AtCoder Begginer Contest)に参加してみよう！
 - 21:00までにやるべきこと
     - アカウント作成(https://atcoder.jp/?lang=ja)
