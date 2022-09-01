@@ -84,6 +84,7 @@ A = list(map(int, input().split()))
 |:-------:|:---------|----| 
 |max()|最大値を取得|max(1, 4, 2) -> 4|
 |min()|最小値を取得|min(1, 4, 2) -> 1|
+|sun()|全ての要素の和を取得|sum([1, 4, 2]) -> 7|
 |abs()|絶対値を取得|abs(-2) -> 2|
 |sorted()|小さい順にソートする|sorted([1, 4, 2) -> [1, 2, 4]|
 |print()|表示する|print('apple') -> 'apple'|
@@ -222,6 +223,27 @@ python3 a.py
 |261_b|[問題](https://atcoder.jp/contests/abc261/tasks/abc261_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/261_b.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/hard/261_b.cpp)|
 |265_b|[問題](https://atcoder.jp/contests/abc265/tasks/abc265_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/265_b.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/hard/265_b.cpp)|
 |262_b|[問題](https://atcoder.jp/contests/abc262/tasks/abc262_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/262_b.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/hard/262_b.cpp)|
+
+</details>
+
+<details>
+    <summary>EXPERT 🔥🔥🔥🔥🔥</summary>
+
+|問題番号|問題リンク|解説|解説|
+|:-------:|:---------:|:----:|:----:|
+|043_c|[問題](https://atcoder.jp/contests/abc043/tasks/arc059_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/043_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/043_c.cpp)|
+|060_c|[問題](https://atcoder.jp/contests/abc060/tasks/arc073_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/060_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/060_c.cpp)|
+|048_b|[問題](https://atcoder.jp/contests/abc048/tasks/abc048_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/048_b.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/048_b.cpp)|
+|109_c|[問題](https://atcoder.jp/contests/abc109/tasks/abc109_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/109_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/109_c.cpp)|
+|118_c|[問題](https://atcoder.jp/contests/abc118/tasks/abc118_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/118_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/118_c.cpp)|
+|103_c|[問題](https://atcoder.jp/contests/abc103/tasks/abc103_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/103_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/103_c.cpp)|
+|240_c|[問題](https://atcoder.jp/contests/abc240/tasks/abc240_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/240_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/240_c.cpp)|
+|117_c|[問題](https://atcoder.jp/contests/abc117/tasks/abc117_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/117_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/117_c.cpp)|
+|101_c|[問題](https://atcoder.jp/contests/abc101/tasks/arc099_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/101_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/101_c.cpp)|
+|061_c|[問題](https://atcoder.jp/contests/abc061/tasks/abc061_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/061_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/061_c.cpp)|
+|106_c|[問題](https://atcoder.jp/contests/abc106/tasks/abc106_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/106_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/106_c.cpp)|
+|066_c|[問題](https://atcoder.jp/contests/abc066/tasks/arc077_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/066_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/066_c.cpp)|
+|064_c|[問題](https://atcoder.jp/contests/abc064/tasks/abc064_c)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/expert/064_c.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/expert/064_c.cpp)|
 
 </details>
 
