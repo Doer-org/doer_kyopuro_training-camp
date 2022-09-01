@@ -55,8 +55,8 @@ A = list(map(int, input().split()))
 <details>
     <summary>Python関数一覧</summary>
 
-|関数|内容|例|
-|:-------:|:---------|----|
+|関数|内容|例| 
+|:-------:|:---------|----| 
 |max()|最大値を取得|max(1, 4, 2) -> 4|
 |min()|最小値を取得|min(1, 4, 2) -> 1|
 |abs()|絶対値を取得|abs(-2) -> 2|
@@ -169,6 +169,39 @@ python3 a.py
 |052_a|[問題](https://atcoder.jp/contests/abc052/tasks/abc052_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/easy/052_a.py)|
 |151_a|[問題](https://atcoder.jp/contests/abc151/tasks/abc151_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/easy/151_a.py)|
 |205_a|[問題](https://atcoder.jp/contests/abc205/tasks/abc205_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/easy/205_a.py)|
+</details>
+<details>
+    <summary>NORMAL</summary>
+
+|問題番号|問題リンク|解説|
+|:-------:|:---------:|:----:|
+|187_a|[問題](https://atcoder.jp/contests/abc187/tasks/abc187_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/187_a.py)|
+|261_a|[問題](https://atcoder.jp/contests/abc261/tasks/abc261_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/261_a.py)|
+|219_b|[問題](https://atcoder.jp/contests/abc219/tasks/abc219_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/219_b.py)|
+|213_b|[問題](https://atcoder.jp/contests/abc213/tasks/abc213_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/213_b.py)|
+|201_b|[問題](https://atcoder.jp/contests/abc201/tasks/abc201_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/201_b.py)|
+|218_b|[問題](https://atcoder.jp/contests/abc218/tasks/abc218_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/218_b.py)|
+|101_b|[問題](https://atcoder.jp/contests/abc101/tasks/abc101_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/101_b.py)|
+|086_b|[問題](https://atcoder.jp/contests/abc086/tasks/abc086_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/086_b.py)|
+|062_b|[問題](https://atcoder.jp/contests/abc062/tasks/abc062_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/062_b.py)|
+|049_b|[問題](https://atcoder.jp/contests/abc049/tasks/abc049_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/049_b.py)|
+|047_b|[問題](https://atcoder.jp/contests/abc047/tasks/abc047_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/047_b.py)|
+|089_b|[問題](https://atcoder.jp/contests/abc089/tasks/abc089_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/normal/089_b.py)|
+
+</details>
+<details>
+    <summary>HARD</summary>
+
+|問題番号|問題リンク|解説|
+|:-------:|:---------:|:----:|
+|182_b|[問題](https://atcoder.jp/contests/abc182/tasks/abc182_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/182_b.py)|
+|050_b|[問題](https://atcoder.jp/contests/abc050/tasks/abc050_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/050_b.py)|
+|098_b|[問題](https://atcoder.jp/contests/abc098/tasks/abc098_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/098_b.py)|
+|102_b|[問題](https://atcoder.jp/contests/abc102/tasks/abc102_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/102_b.py)|
+|261_b|[問題](https://atcoder.jp/contests/abc261/tasks/abc261_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/261_b.py)|
+|265_b|[問題](https://atcoder.jp/contests/abc265/tasks/abc265_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/265_b.py)|
+|262_b|[問題](https://atcoder.jp/contests/abc262/tasks/abc262_b)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/hard/262_b.py)|
+
 </details>
 
 
