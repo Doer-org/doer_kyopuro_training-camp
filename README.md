@@ -14,6 +14,14 @@
 |21:00~22:40|コンテスト参加|[AtCoder](https://atcoder.jp/?lang=ja)|
 |22:40~23:30|コンテストの感想戦・問題解説||
 
+## 競プロとは？
+- プログラミングで解答するクイズ大会！  
+- 問題を解くまでの流れ
+1. 問題を確認し解法を考える
+2. コードを書く
+3. 問題例を試して、正解するか確認する
+4. コードを提出してACになると正解！
+
 ## Python文法基礎講座
 
 <details>
@@ -51,6 +59,22 @@ A, B = map(int, input().split())
 A = list(map(int, input().split()))
 ```
 </details>
+<details>
+    <summary>Python型一覧</summary>
+
+|型|内容|例| 
+|:-------:|:---------|----| 
+|str|文字列型|a = "ABC"|
+|int|整数型|a = 1|
+|float|浮動小数点型|a = 1.23|
+|bool|ブール型|a = True; b = False|
+|list|リスト型|a = [1, 2, 3]|
+|set|セット型|a = {1, 2, 3}|
+|tuple|タプル型|a = (1, 2, 3)|
+|dict|辞書型|a = {"apple": 1, "banana": 2}, a["apple"] -> 1|
+
+
+</details>
 
 <details>
     <summary>Python関数一覧</summary>
@@ -81,7 +105,6 @@ A = list(map(int, input().split()))
 <details>
     <summary>Python頻出処理</summary>
 
-##### **四則演算など**
 |処理|内容|例|
 |:-------:|:---------|----|
 |+|足し算|4 + 3 -> 7|
@@ -99,7 +122,7 @@ A = list(map(int, input().split()))
 |[[要素] * W for _ in range(H)]|H*Wの二次元配列を作る|[[0] * 2 for _ in range(2)] -> [[0, 0, 0],[0,0,0]]|
 |True, False|bool値（大文字注意）|True, False|
 |and|２つの条件を満たす|if(条件1)and(条件2):|
-|and|２つの条件をどちらか満たす|if(条件1)or(条件2):|
+|or|２つの条件のどちらか満たす|if(条件1)or(条件2):|
 |if elif else|if文, elifに注意|if(条件1)elif（条件2)else:|
 |in|listやsetに要素が含まれるか|2 in [1, 2, 3] -> True|
 
@@ -112,7 +135,8 @@ for number in range(3):
 0
 1
 2
-
+```
+```
 for alp in "abc":
     print(alp)
 
@@ -137,12 +161,9 @@ python3 a.py
 
 
 ## 過去問演習
-- Problemsディレクトリの問題をひたすら解く！
-    →　PythonとC++の解説コード添付
-- AtCoderProblems[https://kenkoooo.com/atcoder/#/table/]
-    →　解いた問題を管理できるサイト
-
-- EASY NORMAL HARD problems
+- 下のリンクから問題を解く【PythonとC++の解説コード付き】
+- [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/)【解いた問題を管理できるサイト】
+- EASY NORMAL HARD の三種類の問題を用意しました！
 
 <details>
     <summary>EASY</summary>
@@ -210,11 +231,9 @@ python3 a.py
     - アカウント作成(https://atcoder.jp/?lang=ja)
     - 参加登録[ABC267](https://atcoder.jp/contests/abc267)
 - 21:00 ~
-    - 問題が出題される
-    - コードを書く
-    - 例を試す
-    - 提出
+    - いざ本番！
 
 
 ## コンテストの感想戦・問題解説
-- 解説します！
+- 実際に問題を解きながら解説します！
+- 分からない時はいつでも質問してください！
