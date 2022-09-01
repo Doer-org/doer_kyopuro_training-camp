@@ -17,13 +17,12 @@
 ## 競プロとは？
 - プログラミングで解答するクイズ大会！  
 - 問題を解くまでの流れ
-1. 問題を確認し解法を考える
-2. コードを書く
-3. 問題例を試して、正解するか確認する
-4. コードを提出してACになると正解！
+    1. 問題を確認し解法を考える
+    2. コードを書く
+    3. 問題例を試して、正解するか確認する
+    4. コードを提出してACになると正解！
 
 ## Python文法基礎講座
-
 <details>
     <summary>入力受け取り</summary>
 
@@ -71,10 +70,12 @@ A = list(map(int, input().split()))
 |list|リスト型|a = [1, 2, 3]|
 |set|セット型|a = {1, 2, 3}|
 |tuple|タプル型|a = (1, 2, 3)|
-|dict|辞書型|a = {"apple": 1, "banana": 2}, a["apple"] -> 1|
+|dict|辞書型|a = {"apple": 1, "banana": 2}; a["apple"] -> 1|
 
 
 </details>
+
+
 
 <details>
     <summary>Python関数一覧</summary>
@@ -161,12 +162,11 @@ python3 a.py
 
 
 ## 過去問演習
-- 下のリンクから問題を解く【PythonとC++の解説コード付き】
+- EASY NORMAL HARD の三種類の問題を用意しました【PythonとC++の解説コード付き】
 - [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/)【解いた問題を管理できるサイト】
-- EASY NORMAL HARD の三種類の問題を用意しました！
 
 <details>
-    <summary>EASY</summary>
+    <summary>EASY 🔥</summary>
 
 |問題番号|問題リンク|解説|解説|
 |:-------:|:---------:|:----:|:----:|
@@ -192,7 +192,7 @@ python3 a.py
 |205_a|[問題](https://atcoder.jp/contests/abc205/tasks/abc205_a)|[Python](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/python_source_code/easy/205_a.py)|[C++](https://github.com/Doer-org/doer_kyopuro_training-camp/blob/main/problems/cpp_source_code/easy/205_a.cpp)|
 </details>
 <details>
-    <summary>NORMAL</summary>
+    <summary>NORMAL 🔥🔥</summary>
 
 |問題番号|問題リンク|解説|解説|
 |:-------:|:---------:|:----:|:----:|
@@ -211,7 +211,7 @@ python3 a.py
 
 </details>
 <details>
-    <summary>HARD</summary>
+    <summary>HARD 🔥🔥🔥</summary>
 
 |問題番号|問題リンク|解説|解説|
 |:-------:|:---------:|:----:|:----:|
@@ -237,3 +237,25 @@ python3 a.py
 ## コンテストの感想戦・問題解説
 - 実際に問題を解きながら解説します！
 - 分からない時はいつでも質問してください！
+
+
+## nextステップ
+- アルゴリズムを勉強してみよう！
+<details>
+    <summary>おすすめアルゴリズム一覧</summary>
+
+|アルゴリズム|
+|:-------|
+|貪欲法|
+|累積和|
+|二分探索|
+|dp（動的計画法）|
+|素数判定|
+|約数列挙|
+|BFS（幅優先探索）|
+|DFS（深さ優先探索）|
+|UnionFind|
+|尺取法|
+
+</details>
+
