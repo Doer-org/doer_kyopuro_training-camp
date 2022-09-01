@@ -96,10 +96,12 @@ A = list(map(int, input().split()))
 |A[-s]|配列の後ろからs番目を取得|[1, 7, 4, 5, 9][-1] -> 9|
 |A[s:g]|Aはlist、s文字目からt文字目を取得|[1, 7, 4, 5, 9][1:3] -> [7, 4]|
 |[要素] * N |N個同じ要素が入ったlistを作る|[0] * 3 -> [0, 0, 0]|
+|[[要素] * W for _ in range(H)]|H*Wの二次元配列を作る|[[0] * 2 for _ in range(2)] -> [[0, 0, 0],[0,0,0]]|
 |True, False|bool値（大文字注意）|True, False|
 |and|２つの条件を満たす|if(条件1)and(条件2):|
 |and|２つの条件をどちらか満たす|if(条件1)or(条件2):|
 |if elif else|if文, elifに注意|if(条件1)elif（条件2)else:|
+|in|listやsetに要素が含まれるか|2 in [1, 2, 3] -> True|
 
 ##### **forループ**
 ```
