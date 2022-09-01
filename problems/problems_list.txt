@@ -89,10 +89,7 @@ https://atcoder.jp/contests/abc118/tasks/abc118_c
 https://atcoder.jp/contests/abc103/tasks/abc103_c
 
 #dp
-https://atcoder.jp/contests/dp/tasks/dp_a
-
-#二分探索
-https://atcoder.jp/contests/abc212/tasks/abc212_c
+https://atcoder.jp/contests/abc240/tasks/abc240_c
 
 #貪欲
 https://atcoder.jp/contests/abc117/tasks/abc117_c
