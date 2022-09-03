@@ -100,6 +100,7 @@ A = list(map(int, input().split()))
 |ord()|文字のUnicode値を取得|ord('a') -> 97|
 |chr()|Unicode値から文字を取得取得|chr(97) -> 'a'|\
 |exit()|プログラムを終了する||
+|type()|型を表示する|type(1) -> int, type("apple") -> str|
 
 </details>
 
