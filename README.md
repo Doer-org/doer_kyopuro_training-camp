@@ -57,6 +57,12 @@ A, B = map(int, input().split())
 ```
 A = list(map(int, input().split()))
 ```
+
+##### **文字列で受け取る→空白で区切る→全てを数値に変換する→リストにする→二次元配列**
+```
+A = [list(map(int, input().split())) for _ in range(3)]
+```
+
 </details>
 <details>
     <summary>Python型一覧</summary>
@@ -122,7 +128,7 @@ A = list(map(int, input().split()))
 |A[-s]|配列の後ろからs番目を取得|[1, 7, 4, 5, 9][-1] -> 9|
 |A[s:g]|Aはlist、s文字目からt文字目を取得|[1, 7, 4, 5, 9][1:3] -> [7, 4]|
 |[要素] * N |N個同じ要素が入ったlistを作る|[0] * 3 -> [0, 0, 0]|
-|[[要素] * W for _ in range(H)]|H*Wの二次元配列を作る|[[0] * 2 for _ in range(2)] -> [[0, 0, 0],[0,0,0]]|
+|[[要素] * W for _ in range(H)]|H*Wの二次元配列を作る|[[0] * 3 for _ in range(2)] -> [[0, 0, 0],[0,0,0]]|
 |True, False|bool値（大文字注意）|True, False|
 |and|２つの条件を満たす|if(条件1)and(条件2):|
 |or|２つの条件のどちらか満たす|if(条件1)or(条件2):|
@@ -164,7 +170,7 @@ python3 a.py
 
 
 ## 過去問演習
-- EASY NORMAL HARD EXPERT の三種類の問題を用意しました【PythonとC++の解説コード付き】
+- EASY NORMAL HARD EXPERT の四種類の問題を用意しました【PythonとC++の解説コード付き】
 - [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/)【解いた問題を管理できるサイト】
     - [EASYリンク](https://kenkoooo.com/atcoder/#/contest/show/6d4ca2a5-4d9d-4265-afd9-c6588ae2566b?activeTab=Problems)
     - [NORMALリンク](https://kenkoooo.com/atcoder/#/contest/show/be8c9ad1-b128-4f16-9f41-e7a1f9309e29?activeTab=Problems)
