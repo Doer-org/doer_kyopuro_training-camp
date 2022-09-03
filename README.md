@@ -163,8 +163,12 @@ python3 a.py
 
 
 ## 過去問演習
-- EASY NORMAL HARD の三種類の問題を用意しました【PythonとC++の解説コード付き】
+- EASY NORMAL HARD EXPERT の三種類の問題を用意しました【PythonとC++の解説コード付き】
 - [AtCoderProblems](https://kenkoooo.com/atcoder/#/table/)【解いた問題を管理できるサイト】
+    - [EASYリンク](https://kenkoooo.com/atcoder/#/contest/show/6d4ca2a5-4d9d-4265-afd9-c6588ae2566b?activeTab=Problems)
+    - [NORMALリンク](https://kenkoooo.com/atcoder/#/contest/show/be8c9ad1-b128-4f16-9f41-e7a1f9309e29?activeTab=Problems)
+    - [HARDリンク](https://kenkoooo.com/atcoder/#/contest/show/90a6c4bb-0d6a-4e6b-85ea-852f6eaab746)
+    - [EXPERTリンク](https://kenkoooo.com/atcoder/#/contest/show/87da4c2e-504e-4a92-9211-7dbb54c394c2)
 
 <details>
     <summary>EASY 🔥</summary>
